@@ -2,15 +2,15 @@
 
 A comprehensive DevSecOps implementation demonstrating enterprise-level CI/CD practices with integrated security scanning, monitoring, and GitOps deployment to Kubernetes.
 
-## 🎯 Project Overview
+## Project Overview
 
 This project showcases a complete software delivery lifecycle using modern DevSecOps practices. The application is a Netflix clone that fetches movie data from TMDB API, deployed through an automated pipeline with security scanning at every stage.
 
-## 🏗️ Architecture
+## Architecture
 <img width="760" height="450" alt="final architecture drawio (1)" src="https://github.com/user-attachments/assets/121a4b0d-6b02-4ea2-94ee-faab7dec022a" />
 
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Core Application
 - **Frontend**: React.js with Node.js
@@ -40,7 +40,7 @@ This project showcases a complete software delivery lifecycle using modern DevSe
 - **Kubernetes**: Amazon EKS
 - **Networking**: VPC, Security Groups, Elastic IPs
 
-## 🚀 Features
+## Features
 
 - **Automated CI/CD Pipeline**: Code changes trigger automatic builds, tests, and deployments
 - **Multi-layer Security Scanning**: Code quality, dependency vulnerabilities, and container image scanning
