@@ -333,9 +333,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 **Ijeawele Divine Nkwocha**
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/ijeawele-nkwocha)
-- GitHub: [Your GitHub Profile](https://github.com/DivineTheAnalyst)
-- Email: [Your Email](dnkwocha14@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/ijeawele-nkwocha)
+- GitHub: [GitHub Profile](https://github.com/DivineTheAnalyst)
+- Email: [Email](dnkwocha14@gmail.com)
 
 ---
 
