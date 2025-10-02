@@ -261,11 +261,7 @@ devsecops-netflix-project/
 ├── kubernetes/             # Kubernetes manifests
 │   ├── deployment.yaml
 │   └── service.yaml
-├── docker/                 # Docker configuration
-│   └── Dockerfile
-├── jenkins/                # Jenkins pipeline scripts
-├── monitoring/             # Prometheus & Grafana configs
-├── docs/                   # Additional documentation
+├── Dockerfile              # Docker configuration 
 ├── package.json            # Node.js dependencies
 └── README.md              # This file
 ```
